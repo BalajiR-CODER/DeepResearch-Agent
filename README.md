@@ -236,7 +236,7 @@ Fast, free on AI Studio, and handles both structured output (JSON sub-queries) a
 ## Author
 
 **Balaji R** — AI Engineer | Bangalore
-[LinkedIn](https://https://linkedin.com/in/balaji-r-06b68b289/) ·[GitHub](https://github.com/BalajiR-CODER)
+[LinkedIn](https://linkedin.com/in/balaji-r-06b68b289/) ·[GitHub](https://github.com/BalajiR-CODER)
 
 ---
 
